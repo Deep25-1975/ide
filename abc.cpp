@@ -1,8 +1,6 @@
-#include <iostream>
-
+# include <iostream>
 int main() {
     std::cout << "Hello, World!" << std::endl;
-    std::cout << "trial!" << std::endl;
     std::cout << "welcome" << std::endl;
-    return 0;
+return 0;
 }
